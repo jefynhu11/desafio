@@ -13,4 +13,7 @@ Test case 01 - Fill field in Paragraphs
 
     Maximize Browser Window
 
-    fill the field "2"
+    fill the field "3"
+    click 'Give Me Bacon' button
+    check if text start whit "Bacon ipsum dolor amet"
+    check if paragraph quantity is correct
